@@ -33,6 +33,7 @@ namespace SQL3
                 memberViews[i] = new MembersView(members[i]);
             }
                 this.grdMembers.DataSource = memberViews;
+            //asdusadhsadfhsdfsdfsd
                
         }
     }
